@@ -33,10 +33,10 @@ For the footer, I used a beige background and added a simple message: “Artful 
 Responsiveness
 To fulfill the primary requirement of responsive design, I used CSS Flexbox, media queries, and percentage-based widths to ensure that every component — the header, hero section, feature grid, and footer — adapts gracefully to different screen sizes. On smaller screens, elements stack vertically, fonts scale proportionally, and padding adjusts to provide a clutter-free experience.
 
-*OUTPUT*: 
-
 JavaScript Interactivity
 JavaScript was used primarily for the mobile menu toggle, making the navigation links appear/disappear when the hamburger icon is clicked. This script enhances usability on devices with limited screen space and aligns with the project’s responsive goals.
 
 Hosting the Project
 To make the project accessible online, I hosted it using GitHub Pages. I created a public repository, pushed the source code, and enabled GitHub Pages through the repository settings. Once activated, a live link was generated, allowing anyone to visit and interact with the responsive website in real-time.
+
+*OUTPUT*: 
