@@ -38,5 +38,3 @@ JavaScript was used primarily for the mobile menu toggle, making the navigation 
 
 Hosting the Project
 To make the project accessible online, I hosted it using GitHub Pages. I created a public repository, pushed the source code, and enabled GitHub Pages through the repository settings. Once activated, a live link was generated, allowing anyone to visit and interact with the responsive website in real-time.
-
-*OUTPUT*: 
